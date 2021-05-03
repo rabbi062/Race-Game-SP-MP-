@@ -9,12 +9,12 @@ public class BGManager : MonoBehaviour
 {
     #region SINGLETON
 
-    public static BGManager Instance;
-
-    private void Awake()
-    {
-        Instance = this;
-    }
+    // public static BGManager Instance;
+    //
+    // private void Awake()
+    // {
+    //     Instance = this;
+    // }
 
     #endregion
 
